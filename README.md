@@ -22,3 +22,6 @@ Selector
             color: red; <br>
         }<br>
     </ style>
+
+- External Stylesheet: <br>
+Writing CSS in a separate document & linking it with HTML file
