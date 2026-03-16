@@ -32,4 +32,4 @@ Used to set the color of foregraound.
 color: red;<br>
 color: pink;<br>
 color: blue;<br>
-color: green;<br>
+color: green;<br> 
