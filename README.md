@@ -38,3 +38,9 @@ color: green;<br>
 Used to set the color of background.
 
 - background-color: red;
+
+## Color System
+- RGB
+
+    color: rgb(255,0,0);<br>
+    color: rgb(0,255,0);
