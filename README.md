@@ -33,3 +33,8 @@ color: red;<br>
 color: pink;<br>
 color: blue;<br>
 color: green;<br> 
+
+## Backgroup Color Property
+Used to set the color of background.
+
+- background-color: red;
