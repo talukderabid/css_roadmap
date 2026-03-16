@@ -18,7 +18,7 @@ Selector
 - < style> tag
 
     < style>
-        h1 {
-            color: red;
-        }
+        h1 { <br>
+            color: red; <br>
+        }<br>
     </ style>
