@@ -24,4 +24,12 @@ Selector
     </ style>
 
 - External Stylesheet: <br>
-Writing CSS in a separate document & linking it with HTML file
+Writing CSS in a separate document & linking it with HTML file.
+
+## Color Property
+Used to set the color of foregraound.
+
+color: red;<br>
+color: pink;<br>
+color: blue;<br>
+color: green;<br>
