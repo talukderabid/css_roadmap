@@ -44,3 +44,8 @@ Used to set the color of background.
 
     color: rgb(255,0,0);<br>
     color: rgb(0,255,0);
+
+-Hex (Hexadecimal)
+
+    color: #ff0000;<br>
+    color: #00ff00;
