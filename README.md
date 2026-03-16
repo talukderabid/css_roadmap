@@ -49,3 +49,16 @@ Used to set the color of background.
 
     color: #ff0000;<br>
     color: #00ff00;
+
+## Selectors
+- Universal selector:<br>
+*{}
+
+- Element selector:<br>
+h1 {}
+
+- Id selector:<br>
+#myid{}
+
+- Class selector:<br>
+.myClass{}
