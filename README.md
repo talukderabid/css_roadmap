@@ -3,3 +3,10 @@
 Casecading Style Sheet
 
 It is a language that is used to describe the style of a document.
+
+## Basic Syntax
+Selector
+
+    h1 {
+        color: red;
+    }
